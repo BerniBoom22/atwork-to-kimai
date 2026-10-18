@@ -1,0 +1,9 @@
+# Ignorar exportaciones personales de atWork y archivos CSV locales
+*.csv
+
+# Python cache y entornos
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
